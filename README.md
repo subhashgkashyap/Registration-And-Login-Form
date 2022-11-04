@@ -1,1 +1,1 @@
-# RegistrationAndLoginForm
+# This repository consists of a registration form and a login form built by using HTML, CSS and JavaScript. The project accepts the user entry and stores it in the **Local Database**. User validation is provided while logging in. The project has the option to toggle between light/dark modes.
